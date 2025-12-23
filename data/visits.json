@@ -14,5 +14,19 @@
         "customer_name": "Leon Boga",
         "visit_report": "Follow up sampel sebelumnya. Beef steak improvement dari kode 1701, dibuat warna lebih gelap, bawangnya dikurangi, ditambahkan kandungan beefnya, dan manisnya dikurangi sedikit supaya balance. Untuk mushroom belum ada update.",
         "sample_no": []
+    },
+    {
+        "visit_date": "2025-12-26",
+        "visit_order": 1,
+        "customer_name": "Heihei",
+        "visit_report": "Mengantar kalender dan diskusi terkait penjualan. Beberapa bulan terakhir penjualan cenderung stabil dan ada peningkatan di sekitar 1 bulan terakhir untuk order garam. Untuk lebaran kemungkinan akan meningkat juga.",
+        "sample_no": []
+    },
+    {
+        "visit_date": "2025-12-26",
+        "visit_order": 2,
+        "customer_name": "Bangun Berkat",
+        "visit_report": "Mengantar kalender dan diskusi penjualan. Untuk jelly akhir2 ini kurang terlalu bagus untuk bangun berkat. Penjualan masih relatif stabil, namun tetap ada sedikit penurunan. Untuk nataru ini sejauh ini belum terlihat peningkatannya.",
+        "sample_no": []
     }
 ]
