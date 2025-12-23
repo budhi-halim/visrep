@@ -1,0 +1,18 @@
+[
+    {
+        "visit_date": "2025-12-23",
+        "visit_order": 1,
+        "customer_name": "Beleaf",
+        "visit_report": "Mengantar sampel mie goreng seasoning untuk trial produksi. Follow up sampel sebelumnya. Sambal matah minta dinaikkan lagi pedasnya. Japanese curry prefer kode 8000 dan minta ditambahkan chicken powder, dan rumput laut minta ditambahkan asinnya.",
+        "sample_no": [
+            2067
+        ]
+    },
+    {
+        "visit_date": "2025-12-23",
+        "visit_order": 2,
+        "customer_name": "Leon Boga",
+        "visit_report": "Follow up sampel sebelumnya. Beef steak improvement dari kode 1701, dibuat warna lebih gelap, bawangnya dikurangi, ditambahkan kandungan beefnya, dan manisnya dikurangi sedikit supaya balance. Untuk mushroom belum ada update.",
+        "sample_no": []
+    }
+]
