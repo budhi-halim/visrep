@@ -1,32 +1,16 @@
 [
     {
-        "visit_date": "2025-12-23",
+        "visit_date": "2025-12-30",
         "visit_order": 1,
-        "customer_name": "Beleaf",
-        "visit_report": "Mengantar sampel mie goreng seasoning untuk trial produksi. Follow up sampel sebelumnya. Sambal matah minta dinaikkan lagi pedasnya. Japanese curry prefer kode 8000 dan minta ditambahkan chicken powder, dan rumput laut minta ditambahkan asinnya.",
-        "sample_no": [
-            2067
-        ]
-    },
-    {
-        "visit_date": "2025-12-23",
-        "visit_order": 2,
-        "customer_name": "Leon Boga",
-        "visit_report": "Follow up sampel sebelumnya. Beef steak improvement dari kode 1701, dibuat warna lebih gelap, bawangnya dikurangi, ditambahkan kandungan beefnya, dan manisnya dikurangi sedikit supaya balance. Untuk mushroom belum ada update.",
+        "customer_name": "Ivan Kurniawan",
+        "visit_report": "Follow up project dengan cust, untuk sampel project dengan pemprov saat ini Pak Ivan masih belum meeting lebih lanjut, namun untuk rasa sampel dari Pak Ivan sudah ok. Untuk project kuah pempek, sampel sudah diforward ke client termasuk yang jamur dan tinggal menunggu feedback saja. Untuk project Pak Ivan sendiri saat ini sedang mencoba develop tepung pisang dan juga ubi. Selain itu, Pak Ivan juga sedang mencoba develop gluten replacement dengan senyawa psyllium untuk roti gluten free ataupun produk pangan berbasis gluten lainnya.",
         "sample_no": []
     },
     {
-        "visit_date": "2025-12-26",
-        "visit_order": 1,
-        "customer_name": "Heihei",
-        "visit_report": "Mengantar kalender dan diskusi terkait penjualan. Beberapa bulan terakhir penjualan cenderung stabil dan ada peningkatan di sekitar 1 bulan terakhir untuk order garam. Untuk lebaran kemungkinan akan meningkat juga.",
-        "sample_no": []
-    },
-    {
-        "visit_date": "2025-12-26",
+        "visit_date": "2025-12-30",
         "visit_order": 2,
-        "customer_name": "Bangun Berkat",
-        "visit_report": "Mengantar kalender dan diskusi penjualan. Untuk jelly akhir2 ini kurang terlalu bagus untuk bangun berkat. Penjualan masih relatif stabil, namun tetap ada sedikit penurunan. Untuk nataru ini sejauh ini belum terlihat peningkatannya.",
+        "customer_name": "Cemilan Bandoeng",
+        "visit_report": "Follow up penjualan dengan cust. Untuk sejauh ini penjualan cust masih biasa saja, di nataru ini juga tidak ada perubahan yang signifikan. Client/pelanggan dari cust juga hanya usaha kecil saja yang tidak ada lonjakan signifikan di high season. Untuk produk masih tidak ada masalah dan masih akan rutin order seperti biasa.",
         "sample_no": []
     }
 ]
