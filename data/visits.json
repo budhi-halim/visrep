@@ -1,16 +1,16 @@
 [
     {
-        "visit_date": "2025-12-30",
+        "visit_date": "2026-01-07",
         "visit_order": 1,
-        "customer_name": "Ivan Kurniawan",
-        "visit_report": "Follow up project dengan cust, untuk sampel project dengan pemprov saat ini Pak Ivan masih belum meeting lebih lanjut, namun untuk rasa sampel dari Pak Ivan sudah ok. Untuk project kuah pempek, sampel sudah diforward ke client termasuk yang jamur dan tinggal menunggu feedback saja. Untuk project Pak Ivan sendiri saat ini sedang mencoba develop tepung pisang dan juga ubi. Selain itu, Pak Ivan juga sedang mencoba develop gluten replacement dengan senyawa psyllium untuk roti gluten free ataupun produk pangan berbasis gluten lainnya.",
+        "customer_name": "Dunkindo",
+        "visit_report": "Menanyakan update ke customer dan menawarkan leci flav. Namun untuk leci, info purchasing adalah saat ini tidak ada penggunaan levi flav, dan akan dicoba ke rnd. Untuk penggunaan masih relatif stabil dan belum terlihat lonjakan signifikan di high season ini.",
         "sample_no": []
     },
     {
-        "visit_date": "2025-12-30",
+        "visit_date": "2026-01-07",
         "visit_order": 2,
-        "customer_name": "Cemilan Bandoeng",
-        "visit_report": "Follow up penjualan dengan cust. Untuk sejauh ini penjualan cust masih biasa saja, di nataru ini juga tidak ada perubahan yang signifikan. Client/pelanggan dari cust juga hanya usaha kecil saja yang tidak ada lonjakan signifikan di high season. Untuk produk masih tidak ada masalah dan masih akan rutin order seperti biasa.",
+        "customer_name": "Grahainma",
+        "visit_report": "Follow up sampel shrimp powder yang trial sempat pending karena audit bpom dan pembangunan pabrik di legok. Saat ini sampelnya sudah ditrial dan hasilnya sudah cukup baik terkait endapannya, namun belum difinalkan dari 2 kode yang diberikan tsb lebih cocok kode yang mana.",
         "sample_no": []
     }
 ]
