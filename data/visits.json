@@ -1,16 +1,16 @@
 [
     {
-        "visit_date": "2026-01-07",
+        "visit_date": "2026-01-09",
         "visit_order": 1,
-        "customer_name": "Dunkindo",
-        "visit_report": "Menanyakan update ke customer dan menawarkan leci flav. Namun untuk leci, info purchasing adalah saat ini tidak ada penggunaan levi flav, dan akan dicoba ke rnd. Untuk penggunaan masih relatif stabil dan belum terlihat lonjakan signifikan di high season ini.",
+        "customer_name": "Kraft Heinz",
+        "visit_report": "Follow up CSS ke customer, karena PIC sudah 1 bulan tidak bisa dihubungi baik via chat ataupun call. Saat didatangi cust ini juga masih belum bisa ditemui. PIC ini sama dengan yang in charge untuk dokumen halal, sehingga masih blm ada info ataupun permintaan lebih lanjut dari customer.",
         "sample_no": []
     },
     {
-        "visit_date": "2026-01-07",
+        "visit_date": "2026-01-09",
         "visit_order": 2,
-        "customer_name": "Grahainma",
-        "visit_report": "Follow up sampel shrimp powder yang trial sempat pending karena audit bpom dan pembangunan pabrik di legok. Saat ini sampelnya sudah ditrial dan hasilnya sudah cukup baik terkait endapannya, namun belum difinalkan dari 2 kode yang diberikan tsb lebih cocok kode yang mana.",
+        "customer_name": "Sagolicious",
+        "visit_report": "Follow up sampel ayam bakar, dan terakhir dicoba ayam bakar belum ada aroma sintetis, tetapi ayamnya juga tidak terasa. Sampel ini akan dicoba lebih lama lagi dulu untuk memastikan aroma sebelum improvement.",
         "sample_no": []
     }
 ]
