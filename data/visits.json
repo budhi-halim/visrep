@@ -1,18 +1,9 @@
 [
     {
-        "visit_date": "2026-01-12",
+        "visit_date": "2026-01-13",
         "visit_order": 1,
-        "customer_name": "Beleaf",
-        "visit_report": "Mengantar sampel sambal matah yang sebelumnya masih kurang pedas dan akan ditrial dulu. Timeline terbaru dari customer, target feb seasoning sudah bisa final sehingga cust bisa mulai mengurus pendaftaran halal dll. Produk ini pertama akan masuk ke beberapa premium supermarket dulu dan tidak akan langsung export. Apabila hasilnya baik dan dokumentasi sudah lolos baru akan diexport ke singapura dan malaysia terlebih dahulu.",
-        "sample_no": [
-            16
-        ]
-    },
-    {
-        "visit_date": "2026-01-12",
-        "visit_order": 2,
-        "customer_name": "Ivan Kurniawan",
-        "visit_report": "Follow up project kuaci, cuanki, dan pempek. Untuk kuaci saat ini cust masih menunggu formula coating dari islandsun. Untuk cuanki sendiri ini masih ada issue untuk pendaftaran PIRT, di mana infonya untuk usaha CV sudah tidak boleh menggunakan PIRT sehingga belum bisa maju lebih lanjut dan masih diurus oleh cust. Untuk pempek sendiri cust masih belum follow up ke clientnya, untuk ini akan secepatnya di follow up kembali oleh cust ke clientnya.",
+        "customer_name": "Mitraboga",
+        "visit_report": "Follow up project bumbu jagung dengan customer. Saat ini RnI mitraboga sudah selesai develop produk akhirnya dan sudah diberikan ke client untuk taburan gorengan, dan masih menunggu feedback dari client. Untuk quantity sendiri masih belum ada, dan info cust dari clientnya perlu menunggu selesai trial dulu juga untuk memberikan estimasi quantity serta harga.",
         "sample_no": []
     }
 ]
