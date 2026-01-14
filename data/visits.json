@@ -1,9 +1,16 @@
 [
     {
-        "visit_date": "2026-01-13",
+        "visit_date": "2026-01-14",
         "visit_order": 1,
-        "customer_name": "Mitraboga",
-        "visit_report": "Follow up project bumbu jagung dengan customer. Saat ini RnI mitraboga sudah selesai develop produk akhirnya dan sudah diberikan ke client untuk taburan gorengan, dan masih menunggu feedback dari client. Untuk quantity sendiri masih belum ada, dan info cust dari clientnya perlu menunggu selesai trial dulu juga untuk memberikan estimasi quantity serta harga.",
+        "customer_name": "UD Bergizi",
+        "visit_report": "Mengantar kalender dan follow up penjualan ke customer. Saat ini penjualan masih relatif stabil. Tantangan di cust saat ini adalah sudah banyak bahan baku yang harganya naik, namun produksi dan penjualan masih berjalan lancar.",
+        "sample_no": []
+    },
+    {
+        "visit_date": "2026-01-14",
+        "visit_order": 2,
+        "customer_name": "Keluarga Protein",
+        "visit_report": "Mengantar kalender dan follow up sampel garlic. Untuk sampel tersebut tidak cocok karena aroma dan warna di produk akhir tidak sesuai. Untuk project ini sedang dihold dulu oleh cust dan sedang fokus di product existing dan pengembangan variasi bentuk snack.",
         "sample_no": []
     }
 ]
