@@ -1,19 +1,16 @@
 [
     {
-        "visit_date": "2026-01-20",
+        "visit_date": "2026-01-26",
         "visit_order": 1,
-        "customer_name": "Beleaf",
-        "visit_report": "Mengantar sampel seaweed dan japanese curry. Sampel sambel matah sebelumnya sudah ada feedback. Dari 3 sambal matah terakhir yang dicoba, terdapat mixed feedback dari panelis. Ada yang merasa bahwa sampel sebelumnya lebih pedas, dan ada yang sampel setelahnya lebih pedas. Ada yang merasakan pedas hanya di aftertaste saja, dan ada yang di awal sudah terasa pedas. Cust meminta ingredient list terlebih dahulu untuk 3 sampel terakhir sambal matah.",
-        "sample_no": [
-            15,
-            17
-        ]
+        "customer_name": "Ivan Kurniawan",
+        "visit_report": "Follow up project kuah pempek dan project lainnya. Untuk project cuanki saat ini masih belum selesai mengurus PIRT, sehingga belum bisa lanjut, namun buyer yang approve untuk export sudah ada, dan cust juga masih finalisasi HACCP. Untuk kuah pempek sendiri dari cust mau minta untuk mixing dari bahan2 yang cocok: shrimp powder, garlic, dan mushroom, dan untuk ini qty diharapkan bisa 100-200kg untuk export. Namun untuk kode mana yang akan dicampur saat ini cust juga masih menunggu feedback dari clientnya.",
+        "sample_no": []
     },
     {
-        "visit_date": "2026-01-20",
+        "visit_date": "2026-01-26",
         "visit_order": 2,
-        "customer_name": "Yorkindo",
-        "visit_report": "Follow up penggunaan barang. Saat ini penggunaan ada sedikit penurunan dibanding nataru kemarin, dan stok lama masih ada sekitar 2-3 dus. Barang untuk PO terbaru sudah diterima oleh gudang dan estimasi akan cukup banyak terpakai di masa lebaran.",
+        "customer_name": "Santhai",
+        "visit_report": "Follow up kelanjutan kuah ramen. Saat ini dari manajemen masih belum ada update terkait kuah ramen ini, karena feedbacknya sampel2 banyak yang sudah cocok. Cust saat ini juga masih menunggu update dari manajemen lagi terkait kelanjutan project kuah ramen ini.",
         "sample_no": []
     }
 ]
