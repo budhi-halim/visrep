@@ -1,16 +1,16 @@
 [
     {
-        "visit_date": "2026-01-28",
+        "visit_date": "2026-01-30",
         "visit_order": 1,
-        "customer_name": "Tara Rasa",
-        "visit_report": "Follow up project/sampel cassava crisps dan seaweed sheet. Sebelumnya ada 2 sampel roasted corn, dan cust sejauh ini prefer kode 3014, namun masih belum final dan masih ada trial tahapan berikutnya yang perlu dikerjakan. Estimasi order seasoning ini adalah sekitar 200kg per bulan. Sampel balado masih belum ada feedbacknya.",
+        "customer_name": "Dunkindo",
+        "visit_report": "Follow up penjualan dengan cust. Secara umum penjualan dunkin stabil, dan saat ini juga sedang persiapan menjelang lebaran sehingga qty akan lebih banyak. Cust juga reminder pengiriman untuk PO yang baru pagi ini dikirim untuk dikirim ke gudang filling di hasyim dan bukan ke jakut.",
         "sample_no": []
     },
     {
-        "visit_date": "2026-01-28",
+        "visit_date": "2026-01-30",
         "visit_order": 2,
-        "customer_name": "Harum Sari",
-        "visit_report": "Follow up kelanjutan project nasi instan. Saat ini dari management harum sari masih belum ada kepastian terkait project ini. Waktu itu sudah sempat hampir launching dengan qty produksi awal 50rb pcs, namun masih di hold sampai sekarang. PIC di cust juga tidak lama lagi akan resign, dan sekarang masih belum ada penggantinya.",
+        "customer_name": "Cemilan Bandoeng",
+        "visit_report": "Follow up penjualan dengan cust. Cemilan bandoeng masih relatif stabil, dan menjelang lebaran diharapkan ada sedikit peningkatan. Beberapa minggu terakhir ini penjualan cust juga sempat terhambat karena curah hujan, dan sempat banjir sampai ke jalan persis depan lokasi sehingga off pengiriman.",
         "sample_no": []
     }
 ]
