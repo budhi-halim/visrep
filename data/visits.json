@@ -1,16 +1,9 @@
 [
     {
-        "visit_date": "2026-01-30",
+        "visit_date": "2026-02-02",
         "visit_order": 1,
-        "customer_name": "Dunkindo",
-        "visit_report": "Follow up penjualan dengan cust. Secara umum penjualan dunkin stabil, dan saat ini juga sedang persiapan menjelang lebaran sehingga qty akan lebih banyak. Cust juga reminder pengiriman untuk PO yang baru pagi ini dikirim untuk dikirim ke gudang filling di hasyim dan bukan ke jakut.",
-        "sample_no": []
-    },
-    {
-        "visit_date": "2026-01-30",
-        "visit_order": 2,
-        "customer_name": "Cemilan Bandoeng",
-        "visit_report": "Follow up penjualan dengan cust. Cemilan bandoeng masih relatif stabil, dan menjelang lebaran diharapkan ada sedikit peningkatan. Beberapa minggu terakhir ini penjualan cust juga sempat terhambat karena curah hujan, dan sempat banjir sampai ke jalan persis depan lokasi sehingga off pengiriman.",
+        "customer_name": "Yorkindo",
+        "visit_report": "Mengantar revisi surat jalan dan follow up stock. Untuk saat ini stock lama masih tersisa 1-2 dus, dan surat jalan revisi dengan nama PT baru juga sudah dittd oleh cust untuk proses penagihan. Cust sepertinya juga sudah mulai lebih perhatian terkait kualitas, dan rencananya seasoning sisa stock lama mau dicoba extend shelf life untuk evaluasi kondisi saat ini, namun ini masih akan dibahas internal yorkindo dulu dan akan diinfo lagi.",
         "sample_no": []
     }
 ]
