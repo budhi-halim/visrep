@@ -1,9 +1,16 @@
 [
     {
-        "visit_date": "2026-02-03",
+        "visit_date": "2026-02-05",
         "visit_order": 1,
-        "customer_name": "Kaya Rasa",
-        "visit_report": "Follow up project untuk produk fried chicken powder. Saat ini sedang ada development tepung dengan fried chicken powder yang rencananya akan launching di tahun ini, namun produk ini ternyata bukan di kaya rasa, melainkan untuk wadah pangan. Info Pak Galang adalah dari wadah pangan seharusnya sudah menghubungi tim sales surabaya terkait project ini.",
+        "customer_name": "Abhinaya",
+        "visit_report": "Follow up progress project healthy snack. Project ini masih berjalan di cust, namun saat ini belum ada tanggal launching. Dari estimasi qty memang tidak terlalu besar, dan kendala project saat ini ada di pemasaran karena produk ini tidak akan masuk ke store OT pada umumnya, tetapi langsung ke store/channel khusus healthy/baby foods, sehingga perlu waktu dari marketing untuk bisa meluncurkan produk ini.",
+        "sample_no": []
+    },
+    {
+        "visit_date": "2026-02-05",
+        "visit_order": 2,
+        "customer_name": "Bergizi",
+        "visit_report": "Follow up penjualan dengan cust. Saat ini semua berjalan baik2 saja, terkait produk juga tidak ada masalah. Terkait imlek/lebaran, estimasinya tidak akan ada peningkatan yang terlalu signifikan. Namun, secara umum bisnisnya lancar dan penjualan juga masih stabil sampai sekarang.",
         "sample_no": []
     }
 ]
