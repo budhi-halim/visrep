@@ -1,16 +1,18 @@
 [
     {
-        "visit_date": "2026-02-05",
+        "visit_date": "2026-02-06",
         "visit_order": 1,
-        "customer_name": "Abhinaya",
-        "visit_report": "Follow up progress project healthy snack. Project ini masih berjalan di cust, namun saat ini belum ada tanggal launching. Dari estimasi qty memang tidak terlalu besar, dan kendala project saat ini ada di pemasaran karena produk ini tidak akan masuk ke store OT pada umumnya, tetapi langsung ke store/channel khusus healthy/baby foods, sehingga perlu waktu dari marketing untuk bisa meluncurkan produk ini.",
+        "customer_name": "Tara Rasa",
+        "visit_report": "Diskusi project cassava crisps dan mengambil sampel dari cust. Customer ada memberikan sampel dari kompetitor lokal untuk 3 item, bbq, balado, dan nacho cheese (seperti keju bakar/smoky) dengan harga 50an, dan cust menanyakan apakah islandsun ada item tersebut dengan harga max 40k. Untuk penjualan di warung2, cust lebih mementingkan harga dibanding rasa, sehingga rasa tidak perlu sama persis dengan sampel, tetapi diutamakan yang harganya lebih murah. Menurut cust, info dari marketing mereka selisih harga seasoning 10+k ini cukup berpengaruh, sehingga cust masih mencar yang lebih murah lagi. Untuk sampel bbq yang sebelumnya pernah diberikan ke cust, feedbacknya adalah rasa dan aromanya kalah dengan base, karena menunggunakan singkong, khususnya aroma, sehingga cust prefer yang aromanya lebih kuat, khususnya smoky. Untuk launching sendiri ini direncanakan Q3, namun ini juga tentatif karena saat ini cust belum mendapatkan supplier yang menawarkan harga sesuai target cust.",
         "sample_no": []
     },
     {
-        "visit_date": "2026-02-05",
+        "visit_date": "2026-02-06",
         "visit_order": 2,
-        "customer_name": "Bergizi",
-        "visit_report": "Follow up penjualan dengan cust. Saat ini semua berjalan baik2 saja, terkait produk juga tidak ada masalah. Terkait imlek/lebaran, estimasinya tidak akan ada peningkatan yang terlalu signifikan. Namun, secara umum bisnisnya lancar dan penjualan juga masih stabil sampai sekarang.",
-        "sample_no": []
+        "customer_name": "Keluarga Protein",
+        "visit_report": "Mengantar sampel yeast extract untuk project keripik ayam. Dari cust ada permintaan yeast extract tipe aromor, tetapi karena info ini confidential maka cust akan trial dulu dengan yeast extractnya. Untuk yeast extract ini belum ada target harga, estimasi qty kurang lebih sama dengan HVP, tidak terlalu besar. Untuk launching sendiri dari cust menginginkan secepatnya.",
+        "sample_no": [
+            125
+        ]
     }
 ]
