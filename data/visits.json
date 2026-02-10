@@ -1,18 +1,30 @@
 [
     {
-        "visit_date": "2026-02-06",
+        "visit_date": "2026-02-10",
         "visit_order": 1,
-        "customer_name": "Tara Rasa",
-        "visit_report": "Diskusi project cassava crisps dan mengambil sampel dari cust. Customer ada memberikan sampel dari kompetitor lokal untuk 3 item, bbq, balado, dan nacho cheese (seperti keju bakar/smoky) dengan harga 50an, dan cust menanyakan apakah islandsun ada item tersebut dengan harga max 40k. Untuk penjualan di warung2, cust lebih mementingkan harga dibanding rasa, sehingga rasa tidak perlu sama persis dengan sampel, tetapi diutamakan yang harganya lebih murah. Menurut cust, info dari marketing mereka selisih harga seasoning 10+k ini cukup berpengaruh, sehingga cust masih mencar yang lebih murah lagi. Untuk sampel bbq yang sebelumnya pernah diberikan ke cust, feedbacknya adalah rasa dan aromanya kalah dengan base, karena menunggunakan singkong, khususnya aroma, sehingga cust prefer yang aromanya lebih kuat, khususnya smoky. Untuk launching sendiri ini direncanakan Q3, namun ini juga tentatif karena saat ini cust belum mendapatkan supplier yang menawarkan harga sesuai target cust.",
+        "customer_name": "Sagolicious",
+        "visit_report": "Follow up project healthy chip. Cust di sekitar 1 bulan terakhir ini sedang banyak aktivitas di luar, seperti ada kegiatan di luar kota dan ada acara BPOM, sehingga panel untuk sampel khususnya tes aroma ayam bakar masih belum bisa berjalan lancar. Untuk panel ini akan dilakukan secepatnya supaya bisa memberikan feedback. Cust juga masih menanyakan update terkait SSP gluten free kapan item ini sudah bisa diorder untuk seasoning.",
         "sample_no": []
     },
     {
-        "visit_date": "2026-02-06",
+        "visit_date": "2026-02-11",
+        "visit_order": 1,
+        "customer_name": "Ivan Kurniawan",
+        "visit_report": "Follow up project. Untuk cuanki, perihal PIRT masih belum selesai, untuk kuaci masih mencoba coating dan masih menunggu input metode coating dari islandsun juga dengan sampel base yang sebelumnya sudah diberikan cust. Untuk kuah pempek2, dari client cust minta untuk bumbunya disatukan. Sampel sebelumnya masih terpisah untuk garlic powder, mushroom, dan shrimp. Project ini untuk export sehingga ke depannya quantity lebih menjanjikan dan cust berharap bisa dibuatkan NPD yang sudah ready to use untuk di kuah pempeknya. Sampel target kuah pempeknya saat ini di Pak Ivan sudah tidak ada, dan akan dicoba dimintakan lagi ke clientnya.",
+        "sample_no": []
+    },
+    {
+        "visit_date": "2026-02-13",
+        "visit_order": 1,
+        "customer_name": "Puji Wahyudi",
+        "visit_report": "Update penjualan dengan customer. Pak Zulfi yang biasa handle pembelian sebentar lagi akan resign dari jumadi (nama toko cust) dan nanti akan ada pengganti untuk PIC project dan pembelian. Untuk corn masih berjalan lancar, namun untuk sampel2 lainnya masih belum ada keputusan switch dari ownernya, khususnya yang balado. Sebelumnya sudah ada 2 sampel baru yang cocok, tapi ini nanti akan diinfo lagi kapan mulai dipakai.",
+        "sample_no": []
+    },
+    {
+        "visit_date": "2026-02-13",
         "visit_order": 2,
-        "customer_name": "Keluarga Protein",
-        "visit_report": "Mengantar sampel yeast extract untuk project keripik ayam. Dari cust ada permintaan yeast extract tipe aromor, tetapi karena info ini confidential maka cust akan trial dulu dengan yeast extractnya. Untuk yeast extract ini belum ada target harga, estimasi qty kurang lebih sama dengan HVP, tidak terlalu besar. Untuk launching sendiri dari cust menginginkan secepatnya.",
-        "sample_no": [
-            125
-        ]
+        "customer_name": "Beleaf",
+        "visit_report": "Follow up project healthy chips. Untuk item yang sudah final ada 2 di rasa sambal matah dan mie goreng, dan yang sambal matah ini akan didaftarkan ke BPOM terlebih dahulu. Dari cust ada minta repeat sample lagi untuk pendaftaran BPOM, dan dari cust juga akan ada kode internal untuk produknya dan akan diinfo menyusul. Untuk mie goreng, saat ini cust belum menentukan akan maklon dengan siapa untuk produk popcorn, namun untuk kode sudah final dan juga bisa didaftarkan halal, namun belum akan mengurus BPOM dan sebagainya karena masih menunggu keputusan maklon.",
+        "sample_no": []
     }
 ]
