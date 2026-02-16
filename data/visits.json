@@ -26,5 +26,19 @@
         "customer_name": "Beleaf",
         "visit_report": "Follow up project healthy chips. Untuk item yang sudah final ada 2 di rasa sambal matah dan mie goreng, dan yang sambal matah ini akan didaftarkan ke BPOM terlebih dahulu. Namun, cust baru dapat info dari maklon kalau mereka hanya bisa proses allergen soy dan dairy, sehingga bahan seperti shrimp powder harus diganti dan perlu improvement. Untuk mie goreng yang dipakai untuk produk popcorn, saat ini cust belum menentukan akan maklon dengan siapa antara cornindo atau planet popcorn, dan dari maklon akan trial dulu sehingga ada permintaan sampel untuk trial di maklon. Untuk saat ini seasoning yang sudah final baru mie goreng saja karena yang untuk chips ada peraturan alergen baru.",
         "sample_no": []
+    },
+    {
+        "visit_date": "2026-02-16",
+        "visit_order": 1,
+        "customer_name": "Heinz",
+        "visit_report": "Mengantar dokumen kontrak onion powder ke customer. Namun dokumen masih ada yang kurang, info terbaru dari customer memerlukan 2 copy dan materai sehingga perlu dilengkapi lagi. Terkait permintaan dokumen halal olam, saat ini belum ada info baru lagi.",
+        "sample_no": []
+    },
+    {
+        "visit_date": "2026-02-16",
+        "visit_order": 2,
+        "customer_name": "Yorkindo",
+        "visit_report": "Update penjualan yorkindo. Untuk stok lama saat ini sudah hampir habis, dan yang stok lama ini tidak perlu extend shelf life lagi. Untuk terbaru, estimasi customer belum habis pada tanggal best before, tetapi untuk yang baru ini rencananya yorkindo akan mengajukan extend shelf life supaya dokumentasi lebih proper dan tidak seperti order sebelumnya.",
+        "sample_no": []
     }
 ]
