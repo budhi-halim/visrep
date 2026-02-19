@@ -40,5 +40,12 @@
         "customer_name": "Yorkindo",
         "visit_report": "Update penjualan yorkindo. Untuk stok lama saat ini sudah hampir habis, dan yang stok lama ini tidak perlu extend shelf life lagi. Untuk terbaru, estimasi customer belum habis pada tanggal best before, tetapi untuk yang baru ini rencananya yorkindo akan mengajukan extend shelf life supaya dokumentasi lebih proper dan tidak seperti order sebelumnya.",
         "sample_no": []
+    },
+    {
+        "visit_date": "2026-02-19",
+        "visit_order": 1,
+        "customer_name": "Prima Sari",
+        "visit_report": "Ada project baru dari Pak Hendra untuk kacang rasa bawang. Project ini permintaan dari salah satu customer Pak Hendra, sedikit berbeda dengan kacang bawang existing Pak Hendra karena yang existing tidak menggunakan seasoning. Dari Pak Hendra ada memberikan contoh kacangnya.",
+        "sample_no": []
     }
 ]
