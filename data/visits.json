@@ -47,5 +47,12 @@
         "customer_name": "Prima Sari",
         "visit_report": "Ada project baru dari Pak Hendra untuk kacang rasa bawang. Project ini permintaan dari salah satu customer Pak Hendra, sedikit berbeda dengan kacang bawang existing Pak Hendra karena yang existing tidak menggunakan seasoning. Dari Pak Hendra ada memberikan contoh kacangnya.",
         "sample_no": []
+    },
+    {
+        "visit_date": "2026-02-20",
+        "visit_order": 1,
+        "customer_name": "Dunkindo",
+        "visit_report": "Follow up penjualan. Per hari ini dunkin belum ada detail PO untuk bulan depan apakah akan order atau masih ada. Untuk pemakaian masih stabil dan tidak ada masalah.",
+        "sample_no": []
     }
 ]
