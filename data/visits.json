@@ -1,11 +1,18 @@
 [
     {
-        "visit_date": "2026-02-24",
+        "visit_date": "2026-03-02",
         "visit_order": 1,
-        "customer_name": "Beleaf",
-        "visit_report": "Mengantar sampel mie goreng seasoning untuk popcorn. Cust menanyakan estimasi ready sampel improve sambal matah juga karena mau menjadwalkan meeting dengan buyer export. Untuk varian yang dijadwalkan launching terlebih dahulu untuk chips adalah sambal matah, dan mie goreng untuk popcorn, sehingga sampel lainnya seperti japanese curry tidak akan difokuskan dulu untuk saat ini sampai varian pertama sudah siap launching.",
+        "customer_name": "Amerta Indah Otsuka",
+        "visit_report": "Mengantar sampel sambal balado seasoning yang pedasnya dikurangi untuk ditrial. Nanti kedua prototype, yang lebih pedas dan yang kurang pedas, akan dievaluasi lebih lanjut oleh tim dari indonesia dan juga dari jepang. Apabila salah satu diapprove maka akan segera launching untuk varian balado.",
         "sample_no": [
-            227
+            257
         ]
+    },
+    {
+        "visit_date": "2026-03-02",
+        "visit_order": 2,
+        "customer_name": "Yorkindo",
+        "visit_report": "Follow up resto di bulan puasa. Di puasa kali ini sudah terlihat peningkatan penjualan di resto halal guys dibandingkan awal tahun. Cust berharap bisa terus ramai sampai lebaran nanti. Terkait forecast jadwal PO berikutnya masih belum ada update lagi.",
+        "sample_no": []
     }
 ]
