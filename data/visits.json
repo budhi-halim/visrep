@@ -1,18 +1,16 @@
 [
     {
-        "visit_date": "2026-03-02",
+        "visit_date": "2026-03-11",
         "visit_order": 1,
-        "customer_name": "Amerta Indah Otsuka",
-        "visit_report": "Mengantar sampel sambal balado seasoning yang pedasnya dikurangi untuk ditrial. Nanti kedua prototype, yang lebih pedas dan yang kurang pedas, akan dievaluasi lebih lanjut oleh tim dari indonesia dan juga dari jepang. Apabila salah satu diapprove maka akan segera launching untuk varian balado.",
-        "sample_no": [
-            257
-        ]
+        "customer_name": "Tara Rasa",
+        "visit_report": "Follow up project cassava crisps. Sampel yang diberikan sudah ditrial, feedbacknya adalah untuk nacho cheese ok dengan pemakaian 13% dan masih menunggu harga, bbq ok dengan pemaiakan 11% tetapi harga masih blm masuk. Harga masuk apabila pemaiakan 10%, tetapi 10 dan 11 hasilnya cukup signifikan di produk akhir. Untuk balado masih blm cocok, berbeda terlalu jauh dengan target referensinya.",
+        "sample_no": []
     },
     {
-        "visit_date": "2026-03-02",
+        "visit_date": "2026-03-11",
         "visit_order": 2,
-        "customer_name": "Yorkindo",
-        "visit_report": "Follow up resto di bulan puasa. Di puasa kali ini sudah terlihat peningkatan penjualan di resto halal guys dibandingkan awal tahun. Cust berharap bisa terus ramai sampai lebaran nanti. Terkait forecast jadwal PO berikutnya masih belum ada update lagi.",
+        "customer_name": "Beleaf",
+        "visit_report": "Follow up project healthy chips. Sampel sudah ditrial untuk sambal matah, ingin ditambah lagi pedasnya. Untuk mie goreng masih trial produksi namun untuk seasoningnya sudah final. Untuk varian rasa lainnya akan menyusul, dan jadwal terbaru produk ini akan launching di bulan september.",
         "sample_no": []
     }
 ]
