@@ -1,16 +1,20 @@
 [
     {
-        "visit_date": "2026-03-11",
+        "visit_date": "2026-03-25",
         "visit_order": 1,
-        "customer_name": "Tara Rasa",
-        "visit_report": "Follow up project cassava crisps. Sampel yang diberikan sudah ditrial, feedbacknya adalah untuk nacho cheese ok dengan pemakaian 13% dan masih menunggu harga, bbq ok dengan pemaiakan 11% tetapi harga masih blm masuk. Harga masuk apabila pemaiakan 10%, tetapi 10 dan 11 hasilnya cukup signifikan di produk akhir. Untuk balado masih blm cocok, berbeda terlalu jauh dengan target referensinya.",
-        "sample_no": []
+        "customer_name": "Menacoco",
+        "visit_report": "Mengantar sampel flavor untuk produk jelly. Sampelnya akan ditrial terlebih dahulu. Apabila cocok nanti dapat dijadikan alternatif atau supplier utama apabila quality/harga bisa lebih baik dari existing.",
+        "sample_no": [
+            320
+        ]
     },
     {
-        "visit_date": "2026-03-11",
+        "visit_date": "2026-03-25",
         "visit_order": 2,
-        "customer_name": "Beleaf",
-        "visit_report": "Follow up project healthy chips. Sampel sudah ditrial untuk sambal matah, ingin ditambah lagi pedasnya. Untuk mie goreng masih trial produksi namun untuk seasoningnya sudah final. Untuk varian rasa lainnya akan menyusul, dan jadwal terbaru produk ini akan launching di bulan september.",
-        "sample_no": []
+        "customer_name": "Prima Sari",
+        "visit_report": "Mengantar sampel garlic powder untuk seasoning kacang. Kacang ini infonya tidak seasonal seperti balado, dan kemungkinan qty order akan lebih tinggi dari balado apabila sudah cocok dengan customernya Pak Hendra.",
+        "sample_no": [
+            339
+        ]
     }
 ]
