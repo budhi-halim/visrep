@@ -1,20 +1,16 @@
 [
     {
-        "visit_date": "2026-03-25",
+        "visit_date": "2026-04-02",
         "visit_order": 1,
-        "customer_name": "Menacoco",
-        "visit_report": "Mengantar sampel flavor untuk produk jelly. Sampelnya akan ditrial terlebih dahulu. Apabila cocok nanti dapat dijadikan alternatif atau supplier utama apabila quality/harga bisa lebih baik dari existing.",
-        "sample_no": [
-            320
-        ]
+        "customer_name": "Tara Rasa",
+        "visit_report": "Follow up project cassava crisps. Sampel yang sebelumnya sudah ditrial. Untuk kode balado yang diberikan tidak mirip dengan target. Rasa target lebih manis, tidak terlalu pedas, dan tidak ada dried leek flakesnya, dan warnanya juga masih berbeda jauh. Untuk nacho cheese sudah ok, menunggu harga. Untuk bbq ini masih ada bahan2 yang tidak bisa dipakai oleh cust, sehingga perlu adjust formula dan minta ditambahkan beef powder 0.01% untuk labelling kemasan, serta statement letter source allergen soy dan gluten serta estimasi kadarnya.",
+        "sample_no": []
     },
     {
-        "visit_date": "2026-03-25",
+        "visit_date": "2026-04-02",
         "visit_order": 2,
-        "customer_name": "Prima Sari",
-        "visit_report": "Mengantar sampel garlic powder untuk seasoning kacang. Kacang ini infonya tidak seasonal seperti balado, dan kemungkinan qty order akan lebih tinggi dari balado apabila sudah cocok dengan customernya Pak Hendra.",
-        "sample_no": [
-            339
-        ]
+        "customer_name": "Keluarga Protein",
+        "visit_report": "Mengantar faktur pajak dan follow up penggunaan yeast extract yang sudah diorder. Penggunaan yeast ini di dalam resep jumlahnya sangat sedikit. Untuk 1 dus yeast extract 20kg, diperkirakan cukup untuk 1 tahun. Penggunaan HVP masih lebih banyak dari penggunaan yeast extract ini.",
+        "sample_no": []
     }
 ]
