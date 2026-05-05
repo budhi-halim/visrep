@@ -1,19 +1,16 @@
 [
     {
-        "visit_date": "2026-04-22",
+        "visit_date": "2026-05-05",
         "visit_order": 1,
-        "customer_name": "Tara Rasa Boga",
-        "visit_report": "Mengantar sampel balado dan bbq. Sampel akan ditrial dulu. Untuk nacho cheese, customer agak keberatan dengan harganya karena cukup jauh di atas target harga yang sudah disampaikan. Namun cust akan coba discuss internal dulu karena dari segi rasa sudah cocok, dan nanti akan diupdate kembali apakah bisa menggunakan produk tersebut atau tidak.",
-        "sample_no": [
-            454,
-            466
-        ]
+        "customer_name": "Menacoco",
+        "visit_report": "Follow up sampel flavor dengan customer. Setelah ditrial, aroma dari flavor yang diberikan cenderung lemah dibandingkan produk existing, sehingga dari menacoco belum bisa pakai flavor dari islandsun. Terkait produksi juga masih semakin menurun di menacoco, dan di pabrik saat ini lebih sering off juga.",
+        "sample_no": []
     },
     {
-        "visit_date": "2026-04-22",
+        "visit_date": "2026-05-05",
         "visit_order": 2,
-        "customer_name": "Ivan Kurniawan",
-        "visit_report": "Follow up project dengan customer. Untuk balado cuanki saat ini masih belum ada keputusan dari tim cuanki. Pak Ivan ada project baru lagi dengan salah satu client Pak Ivan, yaitu membuat snack kacang cashew. Dari Pak Ivan ada minta beberapa sampel ke arah korea, seperti kimchi, tteokbokki, mala, dll. Untuk coating rencananya menggunakan glucose, target harga max 150 include, tetapi prefer yang di kisaran 70-80rb.",
+        "customer_name": "Yorkindo",
+        "visit_report": "Follow up penjualan dengan customer. Saat ini penjualan di halal guys sudah mulai cukup ramai kembali, walaupun tidak seramai saat lebaran. Untuk penggunaan seasoning juga meningkat dan saat ini sudah tersisa sekitar 100kg untuk masing2 varian.",
         "sample_no": []
     }
 ]
