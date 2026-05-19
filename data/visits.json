@@ -1,16 +1,11 @@
 [
     {
-        "visit_date": "2026-05-05",
+        "visit_date": "2026-05-19",
         "visit_order": 1,
-        "customer_name": "Menacoco",
-        "visit_report": "Follow up sampel flavor dengan customer. Setelah ditrial, aroma dari flavor yang diberikan cenderung lemah dibandingkan produk existing, sehingga dari menacoco belum bisa pakai flavor dari islandsun. Terkait produksi juga masih semakin menurun di menacoco, dan di pabrik saat ini lebih sering off juga.",
-        "sample_no": []
-    },
-    {
-        "visit_date": "2026-05-05",
-        "visit_order": 2,
-        "customer_name": "Yorkindo",
-        "visit_report": "Follow up penjualan dengan customer. Saat ini penjualan di halal guys sudah mulai cukup ramai kembali, walaupun tidak seramai saat lebaran. Untuk penggunaan seasoning juga meningkat dan saat ini sudah tersisa sekitar 100kg untuk masing2 varian.",
-        "sample_no": []
+        "customer_name": "Dunkin",
+        "visit_report": "",
+        "sample_no": [
+            "Follow up update pemakaian jelly dengan customer. Dunkin saat ini masih sangat sepi penjualan dan semakin merasakan dampak ekonomi dan perang. Selain itu, proses peralihan dunkin menjadi D2 juga terhambat, yang awalnya ditargetkan tahun ini sudah bisa mengganti semua dunkin menjadi D2 dan melepas franchise, namun untuk menyelesaian ini keliatannya akan mundur ke tahun depan. Stok jelly dari islandsun saat ini juga masih belum habis di dunkin, namun dari purchasing tidak ada info sisa qtynya."
+        ]
     }
 ]
