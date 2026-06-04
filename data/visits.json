@@ -1,11 +1,16 @@
 [
     {
-        "visit_date": "2026-05-19",
+        "visit_date": "2026-06-05",
         "visit_order": 1,
-        "customer_name": "Dunkin",
-        "visit_report": "",
-        "sample_no": [
-            "Follow up update pemakaian jelly dengan customer. Dunkin saat ini masih sangat sepi penjualan dan semakin merasakan dampak ekonomi dan perang. Selain itu, proses peralihan dunkin menjadi D2 juga terhambat, yang awalnya ditargetkan tahun ini sudah bisa mengganti semua dunkin menjadi D2 dan melepas franchise, namun untuk menyelesaian ini keliatannya akan mundur ke tahun depan. Stok jelly dari islandsun saat ini juga masih belum habis di dunkin, namun dari purchasing tidak ada info sisa qtynya."
-        ]
+        "customer_name": "Tara Rasa",
+        "visit_report": "Update project dengan customer. Untuk project cassava crisps saat ini sedang dihold di customer karena kondisi ekonomi yang kurang baik. Project ini masih berjalan dan dari rnd juga masih trial untuk basenya, namun saat ini di customer sedang kembali fokus ke product existing dulu.",
+        "sample_no": []
+    },
+    {
+        "visit_date": "2026-06-05",
+        "visit_order": 2,
+        "customer_name": "Yorkindo",
+        "visit_report": "Update penggunaan seasoning di customer. Untuk resto halal guys kondisi sekarang penjualan relatif normal, dan untuk sisa stock seasoning lama di sekitar 2 dus per varian. Info dari customer biasanya ada sedikit peningkatan di bulan2 liburan sekolah, namun tidak seramai saat lebaran, dan PO berikutnya diperkirakaan akan ada di sekitar bulan oktober.",
+        "sample_no": []
     }
 ]
