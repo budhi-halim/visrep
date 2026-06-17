@@ -1,16 +1,18 @@
 [
     {
-        "visit_date": "2026-06-05",
+        "visit_date": "2026-06-17",
         "visit_order": 1,
-        "customer_name": "Tara Rasa",
-        "visit_report": "Update project dengan customer. Untuk project cassava crisps saat ini sedang dihold di customer karena kondisi ekonomi yang kurang baik. Project ini masih berjalan dan dari rnd juga masih trial untuk basenya, namun saat ini di customer sedang kembali fokus ke product existing dulu.",
-        "sample_no": []
+        "customer_name": "Mitraboga",
+        "visit_report": "Mengantar sampel nacho cheese untuk customer. Project ini ternyata masih untuk customernya mitraboga yang sama yang sebelumnya minta sampel corn. Untuk corn drop karena dari mitraboga belum bisa memberikan sampel yang cocok untuk customernya, dan customernya juga sudah mendapat supplier lain. Untuk nacho cheese ini infonya rnd mitraboga selama ini trial menggunakan sisa barang di abhinaya, dan saat ini ada perlu submit sampelnya ke customernya mitraboga, sehingga ada permintaan untuk sampel freshnya karena barang di abhinaya juga sudah lewat tanggal best before.",
+        "sample_no": [
+            741
+        ]
     },
     {
-        "visit_date": "2026-06-05",
+        "visit_date": "2026-06-16",
         "visit_order": 2,
-        "customer_name": "Yorkindo",
-        "visit_report": "Update penggunaan seasoning di customer. Untuk resto halal guys kondisi sekarang penjualan relatif normal, dan untuk sisa stock seasoning lama di sekitar 2 dus per varian. Info dari customer biasanya ada sedikit peningkatan di bulan2 liburan sekolah, namun tidak seramai saat lebaran, dan PO berikutnya diperkirakaan akan ada di sekitar bulan oktober.",
+        "customer_name": "Ivan Kurniawan",
+        "visit_report": "Follow up project dengan customer. Untuk project cuanki saat ini proses perizinan di customer juga masih belum selesai, dan sambil menunggu halal dari islandsun juga. Namun untuk cuanki ini juga ada kendala karena selama ini di handle oleh rekannya Pak Ivan, dan infonya ada masalah internal sehingga cuanki ini nanti akan di take over oleh Pak Ivan sendiri.",
         "sample_no": []
     }
 ]
