@@ -1,18 +1,16 @@
 [
     {
-        "visit_date": "2026-06-17",
+        "visit_date": "2026-07-29",
         "visit_order": 1,
-        "customer_name": "Mitraboga",
-        "visit_report": "Mengantar sampel nacho cheese untuk customer. Project ini ternyata masih untuk customernya mitraboga yang sama yang sebelumnya minta sampel corn. Untuk corn drop karena dari mitraboga belum bisa memberikan sampel yang cocok untuk customernya, dan customernya juga sudah mendapat supplier lain. Untuk nacho cheese ini infonya rnd mitraboga selama ini trial menggunakan sisa barang di abhinaya, dan saat ini ada perlu submit sampelnya ke customernya mitraboga, sehingga ada permintaan untuk sampel freshnya karena barang di abhinaya juga sudah lewat tanggal best before.",
-        "sample_no": [
-            741
-        ]
+        "customer_name": "Malindo",
+        "visit_report": "Update kebutuhan seasoning baru di customer. Untuk hot and spicy di malindo masih relatif stabil untuk di pemakaian 100kg per bulan walaupun sempat fluktuasi saat bulan lebaran. Terkait produk2 baru di malindo, saat ini frozen food di malindo sedang tidak ada pengembangan dan tim rnd sedang mencoba develop produk RTE. Produk RTE ini sendiri sudah cukup lama sejak tahun lalu, tetapi baik dari formula dan juga mesin saat ini masih belum ready sehingga masih trial oleh rnd. Untuk kebutuhan produk ke depannya di RTE ini bisa berupa ingredient/seasoning ataupun dipping sauce, namun di malindo tetap price sensitive.",
+        "sample_no": []
     },
     {
-        "visit_date": "2026-06-16",
+        "visit_date": "2026-07-29",
         "visit_order": 2,
-        "customer_name": "Ivan Kurniawan",
-        "visit_report": "Follow up project dengan customer. Untuk project cuanki saat ini proses perizinan di customer juga masih belum selesai, dan sambil menunggu halal dari islandsun juga. Namun untuk cuanki ini juga ada kendala karena selama ini di handle oleh rekannya Pak Ivan, dan infonya ada masalah internal sehingga cuanki ini nanti akan di take over oleh Pak Ivan sendiri.",
+        "customer_name": "Ufi Masuya",
+        "visit_report": "Follow up penggunaan produk di customer. Pemakaian chili di ufi masih rutin, namun infonya order dari customer ufi juga sudah mulai turun yang diduga karena kondisi ekonomi. Di bulan libur sekolah kemarin sempat sedikit ada peningkatan, namun tidak signifikan dan sekarang sudah kembali normal lagi. Untuk produk lainnya seperti ginger dan hvp juga masih ada order dari customer ufi, namun penggunaan dalam formula memang qty kecil sehingga tidak terlalu sering order item tersebut.",
         "sample_no": []
     }
 ]
