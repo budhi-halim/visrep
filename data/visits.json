@@ -1,16 +1,9 @@
 [
     {
-        "visit_date": "2026-07-29",
+        "visit_date": "2026-09-08",
         "visit_order": 1,
-        "customer_name": "Malindo",
-        "visit_report": "Update kebutuhan seasoning baru di customer. Untuk hot and spicy di malindo masih relatif stabil untuk di pemakaian 100kg per bulan walaupun sempat fluktuasi saat bulan lebaran. Terkait produk2 baru di malindo, saat ini frozen food di malindo sedang tidak ada pengembangan dan tim rnd sedang mencoba develop produk RTE. Produk RTE ini sendiri sudah cukup lama sejak tahun lalu, tetapi baik dari formula dan juga mesin saat ini masih belum ready sehingga masih trial oleh rnd. Untuk kebutuhan produk ke depannya di RTE ini bisa berupa ingredient/seasoning ataupun dipping sauce, namun di malindo tetap price sensitive.",
-        "sample_no": []
-    },
-    {
-        "visit_date": "2026-07-29",
-        "visit_order": 2,
-        "customer_name": "Ufi Masuya",
-        "visit_report": "Follow up penggunaan produk di customer. Pemakaian chili di ufi masih rutin, namun infonya order dari customer ufi juga sudah mulai turun yang diduga karena kondisi ekonomi. Di bulan libur sekolah kemarin sempat sedikit ada peningkatan, namun tidak signifikan dan sekarang sudah kembali normal lagi. Untuk produk lainnya seperti ginger dan hvp juga masih ada order dari customer ufi, namun penggunaan dalam formula memang qty kecil sehingga tidak terlalu sering order item tersebut.",
+        "customer_name": "Graha Inma",
+        "visit_report": "Cek dan demonstrasi komplain customer terkait 2 pengiriman soy sauce powder terakhir. Komplain customer adalah soy sauce powder mengandung kontaminan fisik. Bentuk dan ukurannya bervariasi: bulatan kecil, bulatan besar, panjang (seperti benang), bentuk tak beraturan, dll. Kontaminan berwarna hitam/gelap, dan ada di kedua kode soy sauce yang dipakai. Kejadian ini sudah berlangsung sekitar 2 minggu, namun graha inma baru melapor karena baru membuktikan bahwa kontaminan tersebut berasal dari soy sauce powder. Graha inma sudah mencoba take out satu per satu ingredient dari resep tofunya, dan hasil bersih hanya didapatkan ketika yang di take out adalah soy sauce powder. Saat yang di take out adalah ingredient lain (soy sauce powder tetap dipakai), kontaminannya selalu ada. Kontaminan ini sulit terlihat ketika masih dalam bentuk soy sauce powder karena warna soy sauce powder coklat, tetapi jika diperhatikan memang benar terbukti kontaminannya dari soy sauce. Grahainma juga sudah demonstrasi dengan melarutkan soy sauce ke air bersih (8%) dan menyaringnya dengan kain halus, dan terlihat kontaminannya. Di graha inma saat ini tidak memungkinkan untuk stop produksi karena order tofu terus ada, sehingga solusi sementara dari grahainma adalah dengan menambah lapisan saringan dan QC yang ketat. Metode standar menyaring larutan soy sauce adalah dengan 2 lapis kain, dan selama ini hasilnya selalu bersih. Namun, saat ini perlu menggunakan 10 lapis, dan masih belum menjamin hasilnya sudah bersih. Per hari ini, kerugian graha inma ada di sekitar 4000 pcs dan akan terus bertambah seiring dengan berjalannya produksi. Penyaringan yang 5x lipat lebih tebal dan QC yang ketat juga menghambat kinerja produksi di pabrik, dengan yield 50% dari biasanya. Graha inma mengharapkan solusi cepat dari islandsun supaya produksi di pabrik dapat kembali normal, dan juga diharapkan dari islandsun bisa berkontribusi terkait kerugian produksi. Graha inma sudah memberikan sampel soy sauce, sampel tofu, dan juga kain yang dipakai untuk penyaringan untuk dipakai rnd/qc antaka untuk mengecek kontaminan produk.",
         "sample_no": []
     }
 ]
