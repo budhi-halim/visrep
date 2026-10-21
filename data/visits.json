@@ -1,9 +1,19 @@
 [
     {
-        "visit_date": "2026-09-08",
+        "visit_date": "2026-10-21",
         "visit_order": 1,
-        "customer_name": "Graha Inma",
-        "visit_report": "Cek dan demonstrasi komplain customer terkait 2 pengiriman soy sauce powder terakhir. Komplain customer adalah soy sauce powder mengandung kontaminan fisik. Bentuk dan ukurannya bervariasi: bulatan kecil, bulatan besar, panjang (seperti benang), bentuk tak beraturan, dll. Kontaminan berwarna hitam/gelap, dan ada di kedua kode soy sauce yang dipakai. Kejadian ini sudah berlangsung sekitar 2 minggu, namun graha inma baru melapor karena baru membuktikan bahwa kontaminan tersebut berasal dari soy sauce powder. Graha inma sudah mencoba take out satu per satu ingredient dari resep tofunya, dan hasil bersih hanya didapatkan ketika yang di take out adalah soy sauce powder. Saat yang di take out adalah ingredient lain (soy sauce powder tetap dipakai), kontaminannya selalu ada. Kontaminan ini sulit terlihat ketika masih dalam bentuk soy sauce powder karena warna soy sauce powder coklat, tetapi jika diperhatikan memang benar terbukti kontaminannya dari soy sauce. Grahainma juga sudah demonstrasi dengan melarutkan soy sauce ke air bersih (8%) dan menyaringnya dengan kain halus, dan terlihat kontaminannya. Di graha inma saat ini tidak memungkinkan untuk stop produksi karena order tofu terus ada, sehingga solusi sementara dari grahainma adalah dengan menambah lapisan saringan dan QC yang ketat. Metode standar menyaring larutan soy sauce adalah dengan 2 lapis kain, dan selama ini hasilnya selalu bersih. Namun, saat ini perlu menggunakan 10 lapis, dan masih belum menjamin hasilnya sudah bersih. Per hari ini, kerugian graha inma ada di sekitar 4000 pcs dan akan terus bertambah seiring dengan berjalannya produksi. Penyaringan yang 5x lipat lebih tebal dan QC yang ketat juga menghambat kinerja produksi di pabrik, dengan yield 50% dari biasanya. Graha inma mengharapkan solusi cepat dari islandsun supaya produksi di pabrik dapat kembali normal, dan juga diharapkan dari islandsun bisa berkontribusi terkait kerugian produksi. Graha inma sudah memberikan sampel soy sauce, sampel tofu, dan juga kain yang dipakai untuk penyaringan untuk dipakai rnd/qc antaka untuk mengecek kontaminan produk.",
+        "customer_name": "Ivan Kurniawan",
+        "visit_report": "Update project dengan customer. Untuk kacang, mala dan garlic butter sudah ok dan customer ada minta trial order masing2 5kg. Untuk rasa berikutnya di project kacang dari customer ada permintaan seasoning coklat, namun timelinenya cukup mepet karena rencana launching di natal dan mulai produksi di bulan depan. Untuk cuanki, ayam bawang dan kari sudah ok, namun saat ini customer sedang mengejar launching kacang sehingga trial order untuk cuanki dipending dulu untuk saat ini. Untuk rasa berikutnya di cuanki adalah tori miso dan customer ada minta repeat sampel untuk seasoning ini.",
         "sample_no": []
+    },
+    {
+        "visit_date": "2026-10-21",
+        "visit_order": 2,
+        "customer_name": "Beleaf",
+        "visit_report": "Mengantar sampel soy sauce dan coffee seasoning untuk customer. Untuk trial varian seasoning lainnya saat ini masih belum ada feedback dan masih proses tes sensori.",
+        "sample_no": [
+            1370,
+            1396
+        ]
     }
 ]
